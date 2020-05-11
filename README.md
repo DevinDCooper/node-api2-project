@@ -1,7 +1,7 @@
 # Building RESTful APIs with Express
 
 ## Topics
-
+     
 - Express Routing
 - Reading Request data from body and URL parameters
 - Sub-routes
@@ -49,7 +49,7 @@ A Blog Post in the database has the following structure:
   created_at: Mon Aug 14 2017 12:50:16 GMT-0700 (PDT) // Date, defaults to current date
   updated_at: Mon Aug 14 2017 12:50:16 GMT-0700 (PDT) // Date, defaults to current date
 }
-```
+```1
 
 ### Comment Schema
 
